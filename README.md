@@ -52,6 +52,6 @@ Acknowledgments
 
 
 Credits:
-1. The layout was inspired by the work of  Cesar Rocha (https://crocha700.github.io/UpperOceanSeasonality/)
+1. The layout was inspired by the work of  Cesar Rocha (https://github.com/crocha700/UpperOceanSeasonality)
 2. Further guidelines on research reproducibility can be taken from https://rabernat.github.io/research_computing/organization-and-packaging-of-python-projects.html
 
