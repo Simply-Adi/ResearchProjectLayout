@@ -4,7 +4,7 @@
 Authors
 --------
 [Author1](Personal Website)<sup>1</sup>, [Author2](Personal Website)<sup>1</sup>
-, [Author3](Personal Website).
+, [Author3](Personal Website)<sup>1</sup>.
 
 1: [Institution Name ](Institution Website),
 
