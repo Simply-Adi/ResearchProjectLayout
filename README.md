@@ -40,8 +40,7 @@ Data
 [Data sources and statement of reusability]
 
 
-Credits:
-The layout was inspired by the work of (https://crocha700.github.io/UpperOceanSeasonality/)
+
 
 Support
 -------
@@ -50,3 +49,7 @@ Support
 Acknowledgments
 ----------------
 [Acknowledgments]
+
+
+Credits:
+The layout was inspired by the work of  Cesar Rocha (https://crocha700.github.io/UpperOceanSeasonality/)
